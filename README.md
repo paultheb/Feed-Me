@@ -9,9 +9,9 @@ A map is also generated off of the location details provided by Yelp through the
 
 ###Tools
 
-[Yelp API](http://www.yelp.com/developers/documentation)
-[Google Maps Embed API](https://developers.google.com/maps/documentation/embed/guide)
-[IP-API Geolocation API](http://ip-api.com/docs/)
+- [Yelp API](http://www.yelp.com/developers/documentation)
+- [Google Maps Embed API](https://developers.google.com/maps/documentation/embed/guide)
+- [IP-API Geolocation API](http://ip-api.com/docs/)
 
 ###Current Status
 
